@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<tc:commands xmlns:tc="http://www.barkou.com/command"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.barkou.com/command schema.xsd">
+
+    <command>GetVehicle</command>
+    <command>AddVehicle</command>
+    <command>AddSlot</command>
+    <command>WrongRequest</command>
+    <command>FindFreeSlot</command>
+    <command>Occupy</command>
+    <command>FreeSlot</command>
+
+</tc:commands>

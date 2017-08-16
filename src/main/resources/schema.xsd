@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.barkou.com/command"
+	xmlns:tns="http://www.barkou.com/command">
+
+	<element name="commands">
+
+		<complexType>
+
+			<sequence>
+				<element name="command" type="string" maxOccurs="20"/>
+			</sequence>
+
+		</complexType>
+
+	</element>
+</schema>
